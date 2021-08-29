@@ -11,7 +11,7 @@ Skills: HTML / CSS/ SASS / BOOTSTRAP/ JS / JQUERY / REACT
 - 💬 Ask me about Web Development 
 - 📫 How can I help you ?- 
 
-### <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png" style="width:30px;height:30px"/> Connect with me!
+### 👋 Connect with me!
 
 <div>
   <img src="https://user-images.githubusercontent.com/89722702/131244336-dee919be-509f-43a8-b385-1eb9c14f0555.png" style="height:20px;width:100px;" />
