@@ -20,3 +20,4 @@ Skills: HTML / CSS/ SASS / BOOTSTRAP/ JS / JQUERY / REACT / NEST JS / TAILWIND C
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/FerdousHasan13) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](developerfahim13@gmail.com)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerfahim13&show_icons=true&locale=en&layout=compact" alt="developerfahim13" /></p>
