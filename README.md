@@ -5,7 +5,7 @@
 
 Hello, I'm Ferdous Al Hasan. I'm a Front-end Web developer. I working in web development for the last 1 year. I know Html, CSS, Sass, Bootstrap, Javascript, Jquery and React.  I like to share my knowledge with other people. Every day I learning and improve my skills. I enjoy working with include  JavaScript as well as ReactJS. Sometimes I help people to hove their problems. I feel happy when I do this ☺
 
-Skills: HTML / CSS/ SASS / BOOTSTRAP/ JS / JQUERY / REACT / NEST JS / TAILWIND CSS / MATERIAL UI / FIREBASE
+Skills: HTML / CSS/ SASS / BOOTSTRAP/ JS / JQUERY / REACT / NESX JS / TAILWIND CSS / MATERIAL UI / FIREBASE
 
 - 🌱 I’m currently learning Javascript and React Js 
 - 👯 I’m looking to collaborate on coding partner 
